@@ -12,3 +12,6 @@ Evolução de Core para somente .NET
 Ciclo de Suporte e Atualizações referente a Linguagem Patches 
 
 ![Ciclo](intro_img/ciclo.png)
+
+## Fases do Compilador
+[compilador](intro_img/compilador.png)
